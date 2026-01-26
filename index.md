@@ -8,6 +8,8 @@ I am a Master's student in Computer Science at **Emory University** (expected Ja
 
 My research experience includes positions at **The Chinese University of Hong Kong, Shenzhen**, supervised by Dr. Mengnan Du, and **Shanghai Jiao Tong University**, supervised by Dr. Linfeng Zhang.
 
+I'm craving Chinese food.
+
 ## Research Interests
 
 - **Large Language Models (LLMs):** Efficient post-training, inference, alignment, and reward modeling.
