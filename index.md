@@ -12,9 +12,9 @@ I'm craving Chinese food.
 
 ## Research Interests
 
-- **Large Language Models (LLMs):** Efficient post-training, inference, alignment, and reward modeling.
-- **Interpretability:** Exploring and leveraging interpretability in LLMs and polysemantic neurons.
-- **Data Engineering:** Data selection and mining high-quality data for mathematical reasoning.
+- ** Efficient post-training and inference for large language models (LLMs)** 
+- ** exploring and leveraging interpretability in LLMs **
+
 
 ## News
 
