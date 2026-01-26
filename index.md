@@ -12,8 +12,8 @@ I'm craving Chinese food.
 
 ## Research Interests
 
-- ** Efficient post-training and inference for large language models (LLMs)** 
-- ** exploring and leveraging interpretability in LLMs **
+- **Efficient post-training and inference for large language models (LLMs)** 
+- **exploring and leveraging interpretability in LLMs**
 
 
 ## News
