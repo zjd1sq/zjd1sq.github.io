@@ -27,6 +27,8 @@ My WeChat Official Account(微信公众号): AI知识物语
 - **Software Engineering:** Programming education, AI-assisted programming
 - **Robot:** I work to help robots better perceive the world and interact with humans
 
+## 这是额外添加的导航栏，可删除 见 index.md 第30行
+
 ## News
   
 - **[Step. 2023]** I won the first scholarship for the fifth time!
