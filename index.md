@@ -4,19 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master's student in Computer Science at **Emory University** (expected Jan 2027). I previously earned my B.Sc. in Artificial Intelligence from **Hong Kong Baptist University (HKBU)** in May 2025. 
+
+My research experience includes positions at **The Chinese University of Hong Kong, Shenzhen**, supervised by Dr. Mengnan Du, and **Shanghai Jiao Tong University**, supervised by Dr. Linfeng Zhang.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Large Language Models (LLMs):** Efficient post-training, inference, alignment, and reward modeling.
+- **Interpretability:** Exploring and leveraging interpretability in LLMs and polysemantic neurons.
+- **Data Engineering:** Data selection and mining high-quality data for mathematical reasoning.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2026]** Our paper "ImagebindDC" is accepted as a Poster at **AAAI-26**.
+- **[Oct. 2025]** "CircuitSeer" submitted to ACL ARR 2025 (OA: 3.33, Meta: 3.5).
+- **[Oct. 2025]** Started as a Research Intern at The Chinese University of Hong Kong, Shenzhen.
+- **[Jun. 2025]** Started as a Research Intern at Shanghai Jiao Tong University.
 
 {% include_relative _includes/publications.md %}
 
