@@ -1,29 +1,28 @@
 ---
+---
 layout: homepage
 ---
 
 ## About Me
 
-I am a Master's student in Computer Science at **Emory University** (expected Jan 2027). I previously earned my B.Sc. in Artificial Intelligence from **Hong Kong Baptist University (HKBU)** in May 2025.
+I am a Master's student in Computer Science at **Emory University** (starting Jan 2026, expected Jan 2027). I previously earned my B.Sc. in Artificial Intelligence from **Hong Kong Baptist University (HKBU)** in May 2025. 
 
-My research experience includes positions at **The Chinese University of Hong Kong, Shenzhen**, supervised by Dr. Mengnan Du, and **Shanghai Jiao Tong University**, supervised by Dr. Linfeng Zhang.
-
-I'm craving Chinese food.
+Feel free to connect with me and explore opportunities, collaborations, and exciting ventures together!
 
 ## Research Interests
 
-- **Efficient post-training and inference for large language models (LLMs)** 
+- **Efficient post-training and inference for large language models (LLMs)**
 - **exploring and leveraging interpretability in LLMs**
-
-##在这里添加导航栏（可删除）
-
 
 ## News
 
-- **[Jan. 2026]** Our paper "ImagebindDC" is accepted as a Poster at **AAAI-26**.
-- **[Oct. 2025]** "CircuitSeer" submitted to ACL ARR 2025 (OA: 3.33, Meta: 3.5).
-- **[Oct. 2025]** Started as a Research Intern at The Chinese University of Hong Kong, Shenzhen.
-- **[Jun. 2025]** Started as a Research Intern at Shanghai Jiao Tong University.
+- **[Jan. 2026]** Submitted two papers to **ACL Rolling Review** January 2026 Cycle.
+- **[Jan. 2026]** Started my M.S. studies in Computer Science at **Emory University**.
+- **[Nov. 2025]** One paper "ImagebindDC: Compressing Multimodal Data with Imagebind-based Condensation" has been accepted to **AAAI 2026** as a Poster.
+- **[Oct. 2025]** Submitted a paper to **ACL Rolling Review** October 2025 Cycle.
+- **[May 2025]** Received my B.Sc. degree in Artificial Intelligence from **Hong Kong Baptist University (HKBU)**.
+
 
 {% include publications.md %}
 {% include_relative _includes/services.md %}
+
