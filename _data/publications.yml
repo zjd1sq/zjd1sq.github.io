@@ -3,8 +3,9 @@ main:
   - title: "AdaJudge: Adaptive Multi-Perspective Judging for Reward Modeling"
     authors: "<strong>Yongliang Miao*</strong>, Yangyang Liang, Mengnan Du†"
     conference_short: "Preprint"
-    pdf: https://github.com/zjd1sq/zjd1sq.github.io/blob/main/assets/files/curriculum_vitae.pdf
-    code: https://github.com/zjd1sq?tab=repositories
+    pdf: https://arxiv.org/abs/2601.08097
+    # pdf: https://github.com/zjd1sq/zjd1sq.github.io/blob/main/assets/files/curriculum_vitae.pdf
+    #code: https://github.com/zjd1sq?tab=repositories
     # conference: "Submitted to a CCF-A venue (under review)"
     # notes: "Under Review"
     image: ./assets/img/AdaJudge.png
@@ -17,8 +18,9 @@ main:
 
   - title: "ImagebindDC: Compressing Multimodal Data with Imagebind-based Condensation"
     authors: "Yue Min*, Shaobo Wang*, Jiaze Li, Tianle Niu, Junxin Fan, <strong>Yongliang Miao</strong>, Lijin Yang, Linfeng Zhang†"
-    pdf: https://github.com/zjd1sq/zjd1sq.github.io/blob/main/assets/files/curriculum_vitae.pdf
-    code: https://github.com/zjd1sq?tab=repositories
+    pdf: https://www.arxiv.org/pdf/2511.08263
+    # pdf: https://github.com/zjd1sq/zjd1sq.github.io/blob/main/assets/files/curriculum_vitae.pdf
+    # code: https://github.com/zjd1sq?tab=repositories
     conference_short: "AAAI-26"
     conference: "AAAI-26"
     
