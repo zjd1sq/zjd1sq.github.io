@@ -22,7 +22,7 @@ main:
     # pdf: https://github.com/zjd1sq/zjd1sq.github.io/blob/main/assets/files/curriculum_vitae.pdf
     # code: https://github.com/zjd1sq?tab=repositories
     conference_short: "AAAI-26"
-    conference: "AAAI-26"
+    # conference: "AAAI-26"
     
     # notes: "Poster"
     image: ./assets/img/ImagebindDC.png
