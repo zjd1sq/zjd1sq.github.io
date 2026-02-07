@@ -24,7 +24,7 @@ main:
     conference_short: "AAAI-26"
     conference: "AAAI-26"
     
-    notes: "Poster"
+    # notes: "Poster"
     image: ./assets/img/ImagebindDC.png
 
   # - title: "NeuronScope: A Multi-Agent Framework for Explaining Polysemantic Neurons in Language Models"
