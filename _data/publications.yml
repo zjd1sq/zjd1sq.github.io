@@ -2,19 +2,19 @@ main:
 
   - title: "AdaJudge: Adaptive Multi-Perspective Judging for Reward Modeling"
     authors: "<strong>Yongliang Miao*</strong>, Yangyang Liang, Mengnan Du†"
-    conference_short: "Preprint"
     pdf: https://arxiv.org/abs/2601.08097
     # pdf: https://github.com/zjd1sq/zjd1sq.github.io/blob/main/assets/files/curriculum_vitae.pdf
     #code: https://github.com/zjd1sq?tab=repositories
-    # conference: "Submitted to a CCF-A venue (under review)"
+    conference_short: "ACL 2026"
+    #conference: "ACL ARR 2025 October Submission. OA: 3.33, Meta: 3.5"
     # notes: "Under Review"
     image: ./assets/img/AdaJudge.png
 
-  # - title: "CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs"
-  #   authors: "Shaobo Wang*, <strong>Yongliang Miao*</strong>, YuanCheng Liu, Qianli Ma, Ning Liao, Linfeng Zhang†"
-  #   conference_short: "ACL ARR 2025"
-  #   conference: "ACL ARR 2025 October Submission. OA: 3.33, Meta: 3.5"
-  #   image: ./assets/img/teaser_example.png
+  - title: "CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs"
+    authors: "Shaobo Wang*, <strong>Yongliang Miao*</strong>, YuanCheng Liu, Qianli Ma, Ning Liao, Linfeng Zhang†"
+    conference_short: "ACL 2026"
+    #conference: "ACL ARR 2025 October Submission. OA: 3.33, Meta: 3.5"
+    image: ./assets/img/teaser_example.png
 
   - title: "ImagebindDC: Compressing Multimodal Data with Imagebind-based Condensation"
     authors: "Yue Min*, Shaobo Wang*, Jiaze Li, Tianle Niu, Junxin Fan, <strong>Yongliang Miao</strong>, Lijin Yang, Linfeng Zhang†"
