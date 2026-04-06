@@ -12,14 +12,14 @@ main:
 
   - title: "CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs"
     authors: "Shaobo Wang*, <strong>Yongliang Miao*</strong>, YuanCheng Liu, Qianli Ma, Ning Liao, Linfeng Zhang†"
+    pdf: "https://arxiv.org/abs/2510.18470"
     conference_short: "ACL 2026"
     #conference: "ACL ARR 2025 October Submission. OA: 3.33, Meta: 3.5"
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/circuitseer.png
 
   - title: "ImagebindDC: Compressing Multimodal Data with Imagebind-based Condensation"
     authors: "Yue Min*, Shaobo Wang*, Jiaze Li, Tianle Niu, Junxin Fan, <strong>Yongliang Miao</strong>, Lijin Yang, Linfeng Zhang†"
     pdf: https://www.arxiv.org/pdf/2511.08263
-    # pdf: https://github.com/zjd1sq/zjd1sq.github.io/blob/main/assets/files/curriculum_vitae.pdf
     # code: https://github.com/zjd1sq?tab=repositories
     conference_short: "AAAI-26"
     # conference: "AAAI-26"
@@ -27,9 +27,4 @@ main:
     # notes: "Poster"
     image: ./assets/img/ImagebindDC.png
 
-  # - title: "NeuronScope: A Multi-Agent Framework for Explaining Polysemantic Neurons in Language Models"
-  #   authors: "Weiqi Liu*, <strong>Yongliang Miao</strong>, Haiyan Zhao, Yangyang Liu, Mengnan Du†"
-  #   conference_short: "CCF-A"
-  #   conference: "Submitted to a CCF-A venue (under review)"
-  #   notes: "Under Review"
-  #   image: ./assets/img/teaser_example.png
+
