@@ -10,9 +10,9 @@ Feel free to connect with me and explore opportunities, collaborations, and exci
 
 ## Research Interests
 
-- **Efficient post-training and inference for large language models (LLMs)**
+- **Efficient post-training and inference for (M)LLMs**
 - **exploring and leveraging interpretability in LLMs**
-
+- **muti-Agent system**
 ## News
 - **[Apr. 2026]** Two papers,  *AdaJudge: Adaptive Multi-Perspective Judging for Reward Modeling* and *CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs* have been accepted as **main** papers at **ACL 2026**.
 - **[Jan. 2026]** Submitted two papers to **ACL Rolling Review** January 2026 Cycle.
