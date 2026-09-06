@@ -1,30 +1,36 @@
 main:
-
-  - title: "AdaJudge: Adaptive Multi-Perspective Judging for Reward Modeling"
+  - number: "01"
+    short: AdaJudge
+    title: "AdaJudge: Adaptive Multi-Perspective Judging for Reward Modeling"
     authors: "<strong>Yongliang Miao*</strong>, Yangyang Liang, Mengnan Du†"
     pdf: https://arxiv.org/abs/2601.08097
-    # pdf: https://github.com/zjd1sq/zjd1sq.github.io/blob/main/assets/files/curriculum_vitae.pdf
-    #code: https://github.com/zjd1sq?tab=repositories
-    conference_short: "ACL 2026"
-    #conference: "ACL ARR 2025 October Submission. OA: 3.33, Meta: 3.5"
-    # notes: "Under Review"
-    image: ./assets/img/AdaJudge.png
-
-  - title: "CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs"
-    authors: "Shaobo Wang*, <strong>Yongliang Miao*</strong>, YuanCheng Liu, Qianli Ma, Ning Liao, Linfeng Zhang†"
-    pdf: "https://arxiv.org/abs/2510.18470"
-    conference_short: "ACL 2026"
-    #conference: "ACL ARR 2025 October Submission. OA: 3.33, Meta: 3.5"
-    image: ./assets/img/circuitseer.png
-
-  - title: "ImagebindDC: Compressing Multimodal Data with Imagebind-based Condensation"
+    venue: ACL 2026 · Main Conference
+    note: Oral
+    status: published
+    topic: Reward modeling
+  - number: "02"
+    short: CircuitSeer
+    title: "CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs"
+    authors: "Shaobo Wang*, <strong>Yongliang Miao*</strong>, Yuancheng Liu, Qianli Ma, Ning Liao, Linfeng Zhang†"
+    pdf: https://arxiv.org/abs/2510.18470
+    venue: NeurIPS 2026
+    note: Under review
+    status: review
+    topic: Data selection
+  - number: "03"
+    short: RASFT
+    title: "RASFT: Rollout-Adaptive Supervised Fine-Tuning for Reasoning"
+    authors: "<strong>Yongliang Miao*</strong>, Fengyuan Liu*, Shi Wei, Yanguang Liu, Fei Sun, Na Zou, Xia Hu, Mengnan Du†"
+    venue: AAAI 2027
+    note: Under review
+    status: review
+    topic: Post-training
+  - number: "04"
+    short: ImageBindDC
+    title: "ImageBindDC: Compressing Multimodal Data with ImageBind-Based Condensation"
     authors: "Yue Min*, Shaobo Wang*, Jiaze Li, Tianle Niu, Junxin Fan, <strong>Yongliang Miao</strong>, Lijin Yang, Linfeng Zhang†"
-    pdf: https://www.arxiv.org/pdf/2511.08263
-    # code: https://github.com/zjd1sq?tab=repositories
-    conference_short: "AAAI-26"
-    # conference: "AAAI-26"
-    
-    # notes: "Poster"
-    image: ./assets/img/ImagebindDC.png
-
-
+    pdf: https://arxiv.org/abs/2511.08263
+    venue: AAAI 2026
+    note: Poster
+    status: published
+    topic: Multimodal learning
