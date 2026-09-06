@@ -1,7 +1,1 @@
-## Services
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><autocolor>Transactions on Machine Learning Research (TMLR)</autocolor></li>
-</ul>
+<div class="service-content"><p class="date">REVIEWER · PRESENT</p><ul class="service-list"><li><span class="service-abbr">TMLR</span><span>Transactions on Machine Learning Research</span></li><li><span class="service-abbr">AAAI</span><span>The AAAI Conference on Artificial Intelligence</span></li></ul></div>
