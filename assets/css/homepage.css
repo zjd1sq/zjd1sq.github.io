@@ -1,0 +1,60 @@
+:root{color-scheme:light;--green:#218348;--green-dark:#176535;--ink:#202321;--muted:#5f6561;--line:#dce5d9;--soft:#eaf3e5}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:24px}
+body{margin:0;border-top:4px solid var(--green);background:#f4f8f2;color:var(--ink);font:15px/1.75 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;-webkit-font-smoothing:antialiased}
+::selection{background:#d8efdc}
+a{color:var(--green);text-decoration:none;text-underline-offset:4px}
+a:hover{color:var(--green-dark);text-decoration:underline}
+a:focus-visible,button:focus-visible{outline:2px solid var(--green);outline-offset:5px;border-radius:2px}
+p,h1,h2,h3{margin:0}
+.site-shell{max-width:1000px;margin:auto;padding:0 44px}
+.site-header{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:25px 0;border-bottom:1px solid var(--line)}
+.site-name{font-weight:650;font-size:16px;color:var(--ink)}
+nav{display:flex;gap:26px;font-size:13px}nav a{color:#58665c}
+.hero{display:grid;grid-template-columns:minmax(0,1fr) 176px;gap:54px;align-items:start;padding:51px 0 39px}
+h1{font-size:35px;line-height:1.25;letter-spacing:-.7px;font-weight:650;color:var(--ink);margin-bottom:9px}
+.position{font-size:15px;font-weight:550;color:var(--ink)}
+.affiliation{font-size:13px;color:var(--muted);margin-top:2px}
+.intro{margin-top:20px;font-size:14px;line-height:1.85}.intro+.intro{margin-top:12px}.intro strong{font-weight:600}
+.hero-actions{display:flex;gap:0;align-items:center;flex-wrap:wrap;margin-top:21px;font-size:13px;font-weight:550}
+.hero-actions a+a{margin-left:15px;padding-left:15px;border-left:1px solid #d6e4d9;line-height:1.1}
+.profile-card{padding-top:5px}.portrait{width:176px;height:auto;display:block;border-radius:6px;border:1px solid #e8eee9}
+.section{padding:28px 0 22px}
+.section-heading{display:flex;justify-content:space-between;align-items:center;gap:15px}
+h2{font-size:22px;line-height:1.4;font-weight:650;color:var(--ink);letter-spacing:-.3px}
+.section-heading .text-link{font-size:12px}
+.publications-section{border-top:1px solid var(--line)}
+.publication-toolbar{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-top:19px;margin-bottom:4px}
+.filters{display:flex;gap:4px}.filters[hidden]{display:none}
+.filters button{font:inherit;font-size:11px;border:0;border-radius:4px;background:transparent;color:var(--muted);padding:5px 10px;cursor:pointer}
+.filters button[aria-pressed=true]{background:#e5f4e8;color:var(--green-dark);font-weight:600}
+.filters button:hover{background:var(--soft)}
+.contribution{font-size:10px;color:var(--muted)}
+.publication-list{margin:0;padding:0;list-style:none}
+.publication{padding:21px 0;border-bottom:1px solid var(--line)}
+.publication[hidden]{display:none}.publication:last-child{border-bottom:0}
+.paper-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:7px}
+.venue{font-size:12px;font-weight:700;color:var(--ink)}
+.paper-badge{font-size:12px;font-weight:750;line-height:1.5;padding:3px 9px;border-radius:4px;background:#ffedce;color:#99520a;border:1px solid #edcd93}
+.paper-badge.review{background:#f0e9fa;color:#7043a0;border-color:#dac9ef;font-weight:700}
+.publication h3{font-size:16px;line-height:1.6;font-weight:600}.publication h3 a{color:var(--ink)}.publication h3 a:hover{color:var(--green)}
+.authors{font-size:12px;line-height:1.85;color:var(--muted);margin:6px 0}.authors strong{color:var(--ink);font-weight:650}
+.paper-link{font-size:11px;font-weight:550}
+.background-grid{display:grid;grid-template-columns:1.15fr 1fr;gap:58px;border-top:1px solid var(--line);margin-top:5px}
+.background-grid .section{padding-top:28px;padding-bottom:37px}
+.education-item{margin-top:21px}.date{font-size:10px;color:var(--muted);letter-spacing:.3px}
+.education-item h3{font-size:13px;font-weight:600;margin:4px 0;line-height:1.65}
+.education-item p:not(.date){font-size:12px;line-height:1.75}.muted{color:var(--muted)}
+.service-content{margin-top:21px}.service-list{list-style:none;padding:0;margin:11px 0 0}
+.service-list li{display:flex;gap:13px;font-size:12px;line-height:1.8;margin-top:12px;color:var(--muted)}
+.service-abbr{flex:0 0 38px;font-weight:650;color:var(--ink)}
+.site-footer{border-top:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:15px;padding:22px 0 29px;font-size:11px;color:var(--muted)}
+.site-footer a{color:var(--muted)}
+.skip-link{position:absolute;top:-100px;left:12px;background:var(--green);color:white;padding:8px 15px;z-index:10}.skip-link:focus{top:12px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:760px){.site-shell{padding:0 28px}.hero{gap:30px;grid-template-columns:minmax(0,1fr) 145px;padding-top:35px}.portrait{width:145px}h1{font-size:30px}.publication-toolbar{align-items:flex-start;flex-direction:column;gap:9px}.background-grid{gap:30px}}
+@media(max-width:540px){.site-shell{padding:0 22px}.site-header{flex-wrap:wrap;gap:13px;padding:19px 0}.site-name{font-size:15px}nav{width:100%;gap:0;justify-content:space-between;font-size:12px}.hero{grid-template-columns:1fr;gap:22px;padding-top:28px}.profile-card{grid-row:1;justify-self:start;padding:0}.portrait{width:120px}h1{font-size:29px}.position{font-size:14px}.affiliation{font-size:12px}.intro{font-size:13px}.hero-actions{font-size:12px}.hero-actions a+a{margin-left:12px;padding-left:12px}h2{font-size:21px}.publication h3{font-size:15px}.authors{font-size:12px}.background-grid{grid-template-columns:1fr;gap:0}.background-grid .section{padding-bottom:25px}.service-section{border-top:1px solid var(--line)}.site-footer{flex-wrap:wrap;font-size:10px}.site-footer a:last-child{width:100%}.section-heading .text-link{font-size:11px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{body{border:0;font-size:11px}.site-shell{padding:0;max-width:none}.site-header,.filters,.hero-actions,.site-footer a:last-child{display:none!important}.hero{padding:10px 0 20px}.publication{break-inside:avoid}.publication[hidden]{display:block!important}.section{padding:20px 0}.portrait{width:125px}.profile-card{justify-self:end}h1{font-size:28px}}
+
+.venue-AdaJudge{color:#2466ae}.venue-CircuitSeer{color:#7551b5}.venue-RASFT{color:#28748f}.venue-ImageBindDC{color:#28748f}
